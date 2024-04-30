@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manas-kar
-- 👀 I’m interested in Machine Learning, NLP and Recommender Systems
+- 👀 I’m Highly Skilled in Machine Learning, NLP, Generative AI and Recommender Systems
 - 📫 How to reach me : manas.kar@gmail.com
 
 <!---
